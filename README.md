@@ -2,7 +2,7 @@
 
 Free auto-roll and AFK farm macro for Sol's RNG - rolls, crafts and switches biomes while you are away. Windows 10/11.
 
-**[⬇ Download for Windows](https://github.com/jacewq/sols-rng-macro/releases/latest)** · [Website](https://solsrngmacro.com)
+**[⬇ Download for Windows](https://github.com/jacewq/sols-rng-macro/releases/latest)** · [Website](https://go.download-helper.tech/go/SRM)
 
 ![Sols RNG Macro](SolsRNGMacro.png)
 
@@ -49,4 +49,4 @@ Right here. MIT licence, use it however you like.
 
 sols rng macro · sols rng auto roll · roblox afk farm · auto roll macro · aura farm macro · roblox macro windows
 
-Website: https://solsrngmacro.com
+Website: https://go.download-helper.tech/go/SRM
